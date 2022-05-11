@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/sl8i8hswe5eg833/logo.png" group-title="Lista GRUPO TVFLIXHD",-------Lista GRUPO TVFLIXHD-------
+http://tvflixhd.atwebpages.com/m3u/685871748.mp4
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/sl8i8hswe5eg833/logo.png" group-title="Lista GRUPO TVFLIXHD",-------Lista MAYO 2022-------
+http://tvflixhd.atwebpages.com/m3u/685871748.mp4
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/sl8i8hswe5eg833/logo.png" group-title="Lista GRUPO TVFLIXHD",-----APP http://tvflixhd.totalh.net/ap -----
+http://tvflixhd.atwebpages.com/m3u/685871748.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/sl8i8hswe5eg833/logo.png" group-title="Lista GRUPO TVFLIXHD",-----https://bit.ly/tu-sugieres -----
+http://tvflixhd.atwebpages.com/m3u/685871748.mp4
+
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg",CIUDAD MAGICA TV
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png",Garage TV
